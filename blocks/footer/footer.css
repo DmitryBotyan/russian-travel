@@ -16,7 +16,7 @@
     .footer {
         margin: 64px 118px 24px 16px;
         max-width: 58.1vw;
-        min-height: 96.8vw;   
+        min-height: 96.8vw;
         flex-direction: column;
     } 
 }
