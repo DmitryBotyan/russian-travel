@@ -1,4 +1,4 @@
-.place__paragraph {
+.places__paragraph {
     grid-column-start: 2;
     grid-row-start: 2;
     margin: 0;
@@ -13,13 +13,13 @@
     display: block;
 }
 
-.place__paragraph:last-of-type {
+.places__paragraph:last-of-type {
     margin-bottom: 0;
 }
 
 
 @media screen and (max-width: 768px){
-    .place__paragraph {
+    .places__paragraph {
         font-size: 2vw;
         line-height: 3vw;
         margin-bottom: 3.3vw;
@@ -27,7 +27,7 @@
 }
 
 @media screen and (max-width: 320px){
-    .place__paragraph {
+    .places__paragraph {
         grid-column-start: 1;
         grid-row-start: 2;
         font-size: 16px;

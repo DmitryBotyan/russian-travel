@@ -1,4 +1,4 @@
-.place__link {
+.places__link {
     grid-column-start: 2;
     margin: 0;
     padding: 0;
@@ -12,14 +12,14 @@
 }
 
 @media screen and (max-width:768px){
-    .place__link {
+    .places__link {
         font-size: 2vw;
         line-height: 3vw;
     }
 }
 
 @media screen and (max-width:320px){
-    .place__link {
+    .places__link {
         font-size: 5.6vw;
         line-height: 6.8vw;
     }
