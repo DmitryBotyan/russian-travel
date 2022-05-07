@@ -1,0 +1,28 @@
+.footer__navbar-item {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    color: #FFFFFF;
+    margin-right: 18px;
+}
+
+@media screen and (max-width: 768px){
+    .footer__navbar-item {
+        font-size: 2vw;
+        line-height: 2vw;
+    }
+}
+
+@media screen and (max-width: 320px){
+    .footer__navbar-item {
+        font-size: 7.5vw;
+        line-height: 7.5vw;
+        margin-right: 0;
+        margin-bottom: 32px;
+    }
+}
