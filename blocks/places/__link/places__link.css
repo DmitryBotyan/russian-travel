@@ -11,14 +11,14 @@
     color: #FFFFFF;
 }
 
-@media screen and (max-width:768px){
+@media screen and (max-width:820px){
     .places__link {
         font-size: 2vw;
         line-height: 3vw;
     }
 }
 
-@media screen and (max-width:320px){
+@media screen and (max-width:650px){
     .places__link {
         font-size: 5.6vw;
         line-height: 6.8vw;

@@ -3,24 +3,25 @@
     min-height: 174px;
 }
 
-@media screen and (max-width:1024px){
+@media screen and (max-width:1244px){
     .places__paragraphs {
         max-width: 456px;
         min-height: 174px;
     }
 }
 
-@media screen and (max-width:768px){
+@media screen and (max-width:820px){
     .places__paragraphs {
         max-width: 46.2vw;
         min-height: 23.6vw;
+        max-width: 90vw;
     }
 }
 
-@media screen and (max-width:320px){
+@media screen and (max-width:650px){
     .places__paragraphs {
         margin: 0 5vw 0 5vw;
         grid-column-start: 1;
-        max-width: 288px;
+        max-width: 90vw;
     }
 }

@@ -9,14 +9,14 @@
     color: #FFFFFF;
 }
 
-@media screen and (max-width: 768px){
+@media screen and (max-width: 820px){
     .footer__copyright {
         font-size: 2vw;
         line-height: 2vw;
     } 
 }
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 650px){
     .footer__copyright {
         font-size: 4.3vw;
         line-height: 4.3vw;

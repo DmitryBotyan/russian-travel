@@ -43,3 +43,7 @@
 @import url(../blocks/footer/__copyright/footer__copyright.css);
 
 @import url(../blocks/link/link.css);
+
+* {
+    border: 1px solid purple;
+}
