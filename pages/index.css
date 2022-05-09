@@ -47,7 +47,4 @@
 
 @import url(../blocks/link/link.css);
 
-
-/** {
-    border: 1px solid red;
-}*/
+@import url(../blocks/main/main.css);
