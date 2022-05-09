@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     text-decoration: none;
-    font-family: 'Inter';
+    font-family: 'Inter', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -20,8 +20,8 @@
 
 @media screen and (max-width: 650px){
     .footer__navbar-item {
-        font-size: 6vw;
-        line-height: 7vw;
+        font-size: 7.5vw;
+        line-height: 7.5vw;
         margin-right: 0;
         margin-bottom: 10vw;
     }

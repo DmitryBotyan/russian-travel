@@ -4,7 +4,8 @@
     max-width: 720px;
     min-height: 200px;
     text-align: center;
-    font-family: 'Inter';
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
     font-weight: 900;
     font-size: 96px;
     line-height: 100px;
@@ -33,7 +34,7 @@
         line-height: 44px;
         max-width: 288px;
         min-height: 88px;
-        margin-bottom: 5vw;
+        margin-bottom: 16px;
     }
 }
 
