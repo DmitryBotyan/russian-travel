@@ -31,5 +31,6 @@
     .places__place {
         grid-template-columns: 100vw;
         row-gap: 10vw;
+        margin-bottom: 15.625vw;
     }
 }
